@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"danger","title":"something not right"},"geometry":{"type":"Point","coordinates":[21.22730255126953,45.75563689960445]}}]}
